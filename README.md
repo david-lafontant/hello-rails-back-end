@@ -43,6 +43,7 @@ To get a local copy up and running follow these simple steps.
 - You can clone this repo by typing `https://github.com/david-lafontant/hello-rails-back-end.git` on your terminal.
 
 - Type `cd hello-rails-back-end` to access the project on the terminal.
+- If your on windows please uncomment lines 61 and 62 in the `database.yml` file located in the config folder and follow the instructions. I f you're not on Windows, please skip this. 
   
 - Run `bundle install` to install all the required dependencies.
 - - Run `rails db:setup` or the following sequence:
