@@ -24,7 +24,7 @@ Things you may want to cover:
 * ...
 
 
-# Budget App
+# Hello Rails Back End*
 
 **Hello Rails Back End*  is an API. A GET request to its open end point return a random greeting message
 
